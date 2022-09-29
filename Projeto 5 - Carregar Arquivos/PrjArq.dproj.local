@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/09/29 17:49:21.060,=F:\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/29 17:50:04.594,F:\Projetos Delphi\Projeto 5 - Carregar Arquivos\CarArq.pas=F:\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/29 17:50:04.594,F:\Projetos Delphi\Projeto 5 - Carregar Arquivos\CarArq.dfm=F:\Projetos Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/09/29 17:50:07.642,F:\Projetos Delphi\Projeto 5 - Carregar Arquivos\PrjArq.dproj=F:\Projetos Delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
